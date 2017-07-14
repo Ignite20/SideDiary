@@ -1,0 +1,12 @@
+<resources>
+
+    <item name="visible" type="id" />
+    <item name="masked" type="id" />
+    <string name="app_name">SideDiary</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username_hint_label">Username</string>
+    <string name="pass_hint_label">Password</string>
+    <string name="login_label">Login</string>
+</resources>
